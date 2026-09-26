@@ -1,0 +1,173 @@
+{
+  "catalog_version": 1,
+  "jokes": [
+    {
+      "seed_key": "dad_joke-0001",
+      "category": "dad_joke",
+      "content": "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ? Parce que sinon ils tombent dans le bateau.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "dad_joke-0002",
+      "category": "dad_joke",
+      "content": "Qu'est-ce qui est jaune et qui attend ? Jonathan.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "dad_joke-0003",
+      "category": "dad_joke",
+      "content": "Comment appelle-t-on un chat tombé dans un pot de peinture le jour de Noël ? Un chat-mallow.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "dad_joke-0004",
+      "category": "dad_joke",
+      "content": "Quel est le comble pour un électricien ? De ne pas être au courant.",
+      "rarity": "rare"
+    },
+    {
+      "seed_key": "dad_joke-0005",
+      "category": "dad_joke",
+      "content": "Pourquoi le football c'est rigolo ? Parce que Thierry en rit.",
+      "rarity": "rare"
+    },
+    {
+      "seed_key": "dad_joke-0006",
+      "category": "dad_joke",
+      "content": "Quel est l'animal le plus heureux ? Le hibou, parce que sa femme est chouette.",
+      "rarity": "epique"
+    },
+    {
+      "seed_key": "dad_joke-0007",
+      "category": "dad_joke",
+      "content": "Deux antennes se marient. La cérémonie était nulle, mais la réception excellente.",
+      "rarity": "legendaire"
+    },
+    {
+      "seed_key": "noir-0001",
+      "category": "noir",
+      "content": "Un pessimiste voit une lumière au bout du tunnel. Un optimiste pense que c'est le paradis. Le conducteur du train, lui, ne pense à rien du tout.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "noir-0002",
+      "category": "noir",
+      "content": "C'est l'histoire d'un mec qui va bien. Fin.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "noir-0003",
+      "category": "noir",
+      "content": "Qu'est-ce qu'un cimetière bien organisé ? Un endroit où les gens meurent pour y entrer.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "noir-0004",
+      "category": "noir",
+      "content": "Mon psy m'a dit d'affronter mes peurs. Maintenant j'habite avec elles, on partage le loyer.",
+      "rarity": "rare"
+    },
+    {
+      "seed_key": "noir-0005",
+      "category": "noir",
+      "content": "J'ai un ami très déprimé qui pense que sa vie n'a aucun sens. Franchement, il exagère un peu, elle en a un : elle sert d'exemple à ne pas suivre.",
+      "rarity": "rare"
+    },
+    {
+      "seed_key": "noir-0006",
+      "category": "noir",
+      "content": "Le docteur m'a dit qu'il me restait six mois à vivre. Je n'ai pas payé la facture, il m'en a donné six de plus.",
+      "rarity": "epique"
+    },
+    {
+      "seed_key": "noir-0007",
+      "category": "noir",
+      "content": "Sur ma tombe, écrivez juste : \"il a fini par se reposer\" — comme ça au moins un des deux mensonges habituels sera vrai.",
+      "rarity": "legendaire"
+    },
+    {
+      "seed_key": "coquin-0001",
+      "category": "coquin",
+      "content": "Pourquoi les draps sont-ils toujours de bonne humeur ? Parce qu'ils voient tout sous un autre angle.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "coquin-0002",
+      "category": "coquin",
+      "content": "Quel est le comble pour un masseur ? De ne toucher personne de la journée.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "coquin-0003",
+      "category": "coquin",
+      "content": "Elle lui a dit : \"Chez moi ou chez toi ?\" Il a répondu : \"Les deux, si on est efficaces.\"",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "coquin-0004",
+      "category": "coquin",
+      "content": "Qu'est-ce qu'un french kiss réussi ? Une question de langue... et de diplomatie.",
+      "rarity": "rare"
+    },
+    {
+      "seed_key": "coquin-0005",
+      "category": "coquin",
+      "content": "Pourquoi le lit est-il le meuble le plus honnête de la maison ? Parce que c'est là que tout se révèle.",
+      "rarity": "rare"
+    },
+    {
+      "seed_key": "coquin-0006",
+      "category": "coquin",
+      "content": "Il lui a chuchoté à l'oreille : \"Et si on jouait au docteur ?\" Elle a répondu : \"D'accord, mais c'est moi qui prescris.\"",
+      "rarity": "epique"
+    },
+    {
+      "seed_key": "coquin-0007",
+      "category": "coquin",
+      "content": "Le tantrisme, c'est comme le café : ça se prend bien mieux long et sans se presser.",
+      "rarity": "legendaire"
+    },
+    {
+      "seed_key": "pueril-0001",
+      "category": "pueril",
+      "content": "Pourquoi les crottes de nez sont-elles toujours pressées ? Parce qu'elles ne veulent pas se faire moucher.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "pueril-0002",
+      "category": "pueril",
+      "content": "Toc toc toc. Qui est là ? Une odeur de pet. Une odeur de pet qui ?",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "pueril-0003",
+      "category": "pueril",
+      "content": "Pourquoi le caca ne s'inquiète jamais ? Parce qu'il finit toujours par se faire tirer la chasse.",
+      "rarity": "commune"
+    },
+    {
+      "seed_key": "pueril-0004",
+      "category": "pueril",
+      "content": "Quel est le comble pour un pet ? De se faire mal voir alors qu'on ne l'entend même pas.",
+      "rarity": "rare"
+    },
+    {
+      "seed_key": "pueril-0005",
+      "category": "pueril",
+      "content": "Pourquoi les fesses sont-elles toujours ensemble ? Parce qu'elles sont culottées.",
+      "rarity": "rare"
+    },
+    {
+      "seed_key": "pueril-0006",
+      "category": "pueril",
+      "content": "Un prout entre dans un bar. Le barman lui dit : \"Désolé, on ne sert pas les gaz ici.\" Le prout répond : \"Tant pis, je m'en vais en trombe.\"",
+      "rarity": "epique"
+    },
+    {
+      "seed_key": "pueril-0007",
+      "category": "pueril",
+      "content": "Le roi des pets a été détrôné. On raconte que sa chute a fait grand bruit, mais que ça sentait déjà la fin de règne.",
+      "rarity": "legendaire"
+    }
+  ]
+}

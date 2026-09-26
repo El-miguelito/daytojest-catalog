@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["catalog_version", "jokes"],
+  "additionalProperties": false,
+  "properties": {
+    "catalog_version": { "type": "integer", "minimum": 1 },
+    "jokes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["seed_key", "category", "content", "rarity"],
+        "additionalProperties": false,
+        "properties": {
+          "seed_key": { "type": "string", "pattern": "^[a-z_]+-[0-9]{4}$" },
+          "category": { "enum": ["dad_joke", "noir", "coquin", "pueril"] },
+          "content": { "type": "string", "minLength": 1 },
+          "rarity": { "enum": ["commune", "rare", "epique", "legendaire"] }
+        }
+      }
+    }
+  }
+}
